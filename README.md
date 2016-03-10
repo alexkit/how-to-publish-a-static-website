@@ -34,4 +34,8 @@ Learn more: https://help.github.com/articles/setting-up-an-apex-domain/#configur
 3. Run Surge: `surge`
 4. Follow Surge questions.
 
+### With your custom domain
+
++ https://surge.sh/help/adding-a-custom-domain
+
 Learn more: https://surge.sh
