@@ -11,7 +11,7 @@
 
 ### With your custom domain
 
-0. Purchase your domain name. From my personal experience, I recommend [NameCheap](https://www.namecheap.com/).
+0. Purchase your domain name. From my personal experience - I recommend [NameCheap](https://www.namecheap.com/).
 1. Log into your domain provides, e.g. [NameCheap](https://www.namecheap.com/), etc.
 2. Select domain name and edit it's DNS settings.
 3. Add `A` type record:
