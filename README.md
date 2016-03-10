@@ -11,7 +11,7 @@
 
 ### With your custom domain
 
-1. Log in to your domain provides, e.g. [NameCheap](https://www.namecheap.com/), GoDaddy, etc.
+1. Log into your domain provides, e.g. [NameCheap](https://www.namecheap.com/)(Recommended), [GoDaddy](http://godaddy.com), etc.
 2. Select domain name and edit it's DNS settings.
 3. Add `A` type record:
   + Host: `@`
