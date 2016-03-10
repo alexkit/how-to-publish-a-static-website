@@ -26,3 +26,10 @@
 Learn more: https://help.github.com/articles/setting-up-an-apex-domain/#configuring-a-records-with-your-dns-provider
 
 ## On Surge
+
+1. Install Surge: `sudo npm install --global surge`
+2. Navigate into your project's directory, where your `index.hmtl` is located.
+3. Run Surge: `surge`
+4. Follow Surge questions.
+
+Learn more: https://surge.sh
