@@ -21,6 +21,7 @@
   + Host: `@`
   + Points to: `192.30.252.154`
   + TTL: `600` seconds or similar
+5. Remove other `A` records with the host `@`.
 5. Save.
 
 Learn more: https://help.github.com/articles/setting-up-an-apex-domain/#configuring-a-records-with-your-dns-provider
